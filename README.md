@@ -9,7 +9,7 @@ This app uses AI to fetch the news and read it to its users and assist them in t
 
 ## Author
 
-- Name - [Aryan Shukla](https://www.github.com/aryannewyork)
+- Name - [Shreyansh Agrawal](https://www.github.com/Shreyansh-333)
 - University - Indian Institute of Technology Jammu
 - Department - Computer Science and Engineering
 
